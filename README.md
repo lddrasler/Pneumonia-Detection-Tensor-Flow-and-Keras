@@ -22,7 +22,7 @@ I am working with Python programming language inside Jupyter Notebook. inside th
 * TensorFlow 
 * Keras
 * Numpy
-* Matlibplot
+* Matplotlib.pyplot
 * Lime
 
 ## 4.	Results 
